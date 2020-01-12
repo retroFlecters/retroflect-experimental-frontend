@@ -1,7 +1,7 @@
 {
   "build": {
     "env": {
-      "API_URI_PRODUCTION": "https://retroflect-auth-req.herokuapp.com/api/"
+      "API_URI_PRODUCTION": "https://retroflect.herokuapp.com/api/"
     }
   }
 }
