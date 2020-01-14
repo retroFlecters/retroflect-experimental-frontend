@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "API_URI_PRODUCTION": "https://retroflect.herokuapp.com/api/"
+    }
+  }
+}
